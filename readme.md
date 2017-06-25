@@ -16,7 +16,11 @@ It shows cookie based eid mubarak banner for visitor. Every visitor will see dif
 
 ### Usage ###
 
-You can use shortcode [eid_cards] on any page editor. Or you can use <?php echo do_shortcode('[eid_cards]'); ?> on footer.php just closing body. Then it will show on every page. Don't worry, it is cookie based. If user shows once, it will not show again in 1 day
+You can use shortcode `[eid_cards]` on any page editor. Or you can use 
+
+```php <?php echo do_shortcode('[eid_cards]'); ?> ```
+
+on footer.php just closing body. Then it will show on every page. Don't worry, it is cookie based. If user shows once, it will not show again in 1 day
 
 ## Changelog ##
 
