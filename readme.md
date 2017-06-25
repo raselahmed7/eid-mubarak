@@ -20,7 +20,7 @@ You can use shortcode `[eid_cards]` on any page editor. Or you can use
 
 ```<?php echo do_shortcode('[eid_cards]'); ?>```
 
-on footer.php just closing body. Then it will show on every page. Don't worry, it is cookie based. If user shows once, it will not show again in 1 day
+on footer.php just before closing `</body>`. Then it will show on every page. Don't worry, it is cookie based. If user shows once, it will not show again in 1 day
 
 ## Changelog ##
 
